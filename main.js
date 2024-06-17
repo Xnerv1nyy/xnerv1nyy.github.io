@@ -1,8 +1,8 @@
 //
-// Hello user! I'm Xnerv1nyy!
+// Hello user! I'm Serega (XVOLTZ)!
 //
 
 // Need help? Write to me!
 
-// Telegram - @thesxfter
-// Discord - Letovsky#6664
+// Telegram - @tweakdev
+// Discord - временно нету.
